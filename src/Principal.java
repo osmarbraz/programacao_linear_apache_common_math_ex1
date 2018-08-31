@@ -11,8 +11,8 @@
  * A metalúrgica Airman deseja maximizar sua receita bruta. A tabela a seguir
  * ilustra a proporção de cada material na mistura para a obtenção das ligas
  * passíveis de fabricação, assim como a disponibilidade de cada matéria prima
- * (em toneladas) e os preços de venda por tonelada de cada liga. Qual deve ser
- * a quantidade produzida de cada liga?
+ * (em toneladas) e os preços de venda(em u.m.) por tonelada de cada liga. Qual 
+ * deve ser a quantidade produzida de cada liga?
  *
  * ----------------------------------------------------------------------------------------------
  * | Ligas         |                           Liga Especial                                    |
