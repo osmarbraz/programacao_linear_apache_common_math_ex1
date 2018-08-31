@@ -52,13 +52,12 @@ A metalúrgica Airman deseja maximizar sua receita bruta. A tabela a seguir ilus
     <td class="tg-c3ow"></td>
   </tr>
 </table>
-
-Solução:
-Função Objetivo = MAX 3000x1 + 5000x2
-Sujeito a:
-  0.50x1 + 0.20x2 <=16 
-  0.25x1 + 0.30x2 <=11 
-  0.25x1 + 0.50x2 <=15
-  x1 >= 0 x2 >= 0
-
+<br>
+<b>Solução:</b><br>
+Função Objetivo = MAX 3000x1 + 5000x2<br>
+Sujeito a:<br>
+  0.50x1 + 0.20x2 <=16 <br>
+  0.25x1 + 0.30x2 <=11 <br>
+  0.25x1 + 0.50x2 <=15<br>
+  x1 >= 0 x2 >= 0<br>
 <br>
