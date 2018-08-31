@@ -3,7 +3,7 @@
 Download da biblioteca Apache Common Math:<br>
 http://commons.apache.org/proper/commons-math/index.html
 
-Aplicação Java resolve o seguinte problema de programação linear.
+Esta aplicação Java resolve o seguinte problema de programação linear.
 
 <br>
 <b>Metalurgica Airman</b>
